@@ -1,5 +1,3 @@
-package Personaje;
-
 public class Personaje {
     String nombre;
     String frase;
